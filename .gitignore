@@ -6,3 +6,4 @@ CMakeLists.txt.user
 Makefile
 CMakeCache.txt
 *.cmake
+*~

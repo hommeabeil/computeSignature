@@ -1,6 +1,7 @@
 CMakeFiles
 CMakeLists.txt.user
-convert
+*.exe
+*.com
 *.cbp
 Makefile
 CMakeCache.txt
